@@ -1,0 +1,9 @@
+*__pycache__*
+.ipynb*
+*.pkl
+*.pyt
+*.pdf
+*.png
+*.pyc
+.Trash*
+.DS_Store
